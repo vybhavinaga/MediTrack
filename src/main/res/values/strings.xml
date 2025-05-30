@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MediTrack</string>
+    <string name="hint_medication_name">Medication Name</string>
+    <string name="hint_dosage">Dosage</string>
+    <string name="hint_time">Time (e.g. 8:00 AM)</string>
+    <string name="button_add">Add Medication</string>
+    <string name="medication_info">Dose: %1$s | Time: %2$s</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="time_hint">Time (e.g. 8:00 AM)</string>
+    <string name="add_medication">Add Medication</string>
+
+</resources>
