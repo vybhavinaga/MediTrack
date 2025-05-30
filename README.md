@@ -19,22 +19,16 @@ MediTrack is a simple Android application that helps users track their medicatio
   - AlarmManager (for future reminder setup)
 
 ## Screenshots
-<p align="center">
-  <img src="images/screen1.png" width="200"/>
-  <img src="images/screen2.png" width="200"/>
-  <img src="images/screen3.png" width="200"/>
-</p>
+| Initial Screen | Adding Input | Medication List |
+|----------------|--------------|------------------|
+| ![Initial Screen](images/screen1.png) | ![Adding Input](images/screen2.png) | ![Medication List](images/screen3.png) |
 
 ## Unit Testing
 - Tests for ViewModel: ensuring medication entries are stored and retrieved.
 - LiveData tested using `InstantTaskExecutorRule`.
 
 ## Getting Started
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/vybhavinaga/MediTrack.git
-   cd MediTrack
-   ```
+1. Clone this repository.
 2. Open with **Android Studio**.
 3. Click **Run** or launch the app on your emulator/device.
 
